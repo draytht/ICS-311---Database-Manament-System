@@ -4,5 +4,5 @@ This repository contains assignments and projects completed for the ICS-311 Data
 Table of Contents
 Assignments
 
-Assignments
-The assignments folder contains individual assignments completed throughout the course. Each assignment folder contains a readme file with instructions, sample code, and results.
+## Assignments
+- The assignments folder contains individual assignments completed throughout the course. Each assignment folder contains a readme file with instructions, sample code, and results.
